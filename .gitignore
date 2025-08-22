@@ -1,0 +1,10 @@
+# Ignore dataset images
+dataset/train/
+dataset/test/
+
+# Ignore other unnecessary files
+__pycache__/
+*.pyc
+*.pkl
+*.h5
+.env
